@@ -1,2 +1,5 @@
 venv/
 .DS_Store
+build
+census_income.egg-info
+dist
